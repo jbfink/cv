@@ -1,7 +1,6 @@
 # Curriculum Vitae
 # John Fink
 ## Digital Scholarship Librarian
-## jfink@mcmaster.ca
 ### Sherman Centre for Digital Scholarship
 ### McMaster University
 ### 1280 Main STreet W, Hamilton, ON, Canada L8S 4K1
