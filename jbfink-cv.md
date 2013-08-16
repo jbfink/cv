@@ -83,17 +83,25 @@ Committees and Working Groups
 McMaster Committees and Working Groups
 --------------------------------------
 Access 2008 committee (2008)
+
 WILU 2010 Committee (2010)
+
 Active Directory Roundtable (2008-2010)
+
 Evergreen Implementation Committee (2007-2010)
+
 ClimateQUAL (2012-present)
+
 Hamilton Times, project manager. (2011-2013).
+
 McMaster University Academic Librarians Association, treasurer. (2012-2013)
 
 External Committees
 -------------------
 OLA Mentoring Committee, Member at Large (2011-present)
+
 Peer Reviewer for Partnership: The Canadian Journal of Library and Information Practice and Research (2012-present)
+
 Programming Historian 2, technical reviewer and author (2012).
 
 Presentations
