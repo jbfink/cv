@@ -113,6 +113,8 @@ Presentations
 
 "Docker", Access NFLD
 
+"Stop Using Proprietary Document Formats", LTC2014
+
 </stubs>
 
 "Fun with Raspberry Pi", workshop at Mohawk College, 04/2013
