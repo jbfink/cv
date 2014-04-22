@@ -100,12 +100,20 @@ External Committees
 -------------------
 OLA Mentoring Committee, Member at Large (2011-present)
 
-Peer Reviewer for Partnership: The Canadian Journal of Library and Information Practice and Research (2012-present)
+Peer Reviewer for Partnership: The Canadian Journal of Library and Information Practice and Research (2012-2014)
 
 Programming Historian 2, technical reviewer and author (2012).
 
 Presentations
 =============
+<stubs for 2014 AR>
+"OLA Kim and Sarah", OLA
+
+"OLA Tim Ribaric", OLA
+
+"Docker", Access NFLD
+
+</stubs>
 
 "Fun with Raspberry Pi", workshop at Mohawk College, 04/2013
 
@@ -167,6 +175,10 @@ and Neighboring Libraries. 04/2007.
 
 Lifetime Publications
 =====================
+
+<stubs for 2014 AR>
+"Docker C4LN", ????
+</stubs>
 
 Access Article
 
