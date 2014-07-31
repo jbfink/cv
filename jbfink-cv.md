@@ -96,6 +96,10 @@ Hamilton Times, project manager. (2011-2013).
 
 McMaster University Academic Librarians Association, treasurer. (2012-2013)
 
+Ontario Library Digital Research Cloud (2013-present)
+
+ILS Exploratory Committee (2013-present)
+
 External Committees
 -------------------
 OLA Mentoring Committee, Member at Large (2011-present)
